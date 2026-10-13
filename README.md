@@ -47,8 +47,8 @@ const bharti = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharti-sharma-b20b29272)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=netlify&logoColor=white)](https://bhartiportfoli0.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhartisharma95185@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhartibfe)
 
@@ -149,7 +149,7 @@ const bharti = {
 <tr>
 <td width="33%" valign="top">
 
-### 🎓 Campus Path
+### 🎓 [Campus Path](https://www.campuspath.in/)
 
 *College Predictor Platform*
 
@@ -161,10 +161,12 @@ Guidance platform covering **IITs, NITs, IIITs & GFTIs**, with a prediction engi
 ![Node](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-9D4EDD?style=flat-square&logo=googlechrome&logoColor=white)](https://www.campuspath.in/)
+
 </td>
 <td width="33%" valign="top">
 
-### 🛒 Smart E-Commerce
+### 🛒 [Smart E-Commerce](https://smart-ee.vercel.app/)
 
 *MERN Stack*
 
@@ -176,10 +178,12 @@ Full-stack commerce system with **8 MongoDB collections**, secure auth & payment
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-9D4EDD?style=flat-square&logo=googlechrome&logoColor=white)](https://smart-ee.vercel.app/)
+
 </td>
 <td width="33%" valign="top">
 
-### 🗓️ Weekly Wise
+### 🗓️ [Weekly Wise](https://bharti-weekly-wise.netlify.app/)
 
 *Productivity Platform*
 
@@ -191,9 +195,21 @@ React web app centralizing productivity tooling — **blogs, notes, to-do lists 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-9D4EDD?style=flat-square&logo=googlechrome&logoColor=white)](https://bharti-weekly-wise.netlify.app/)
+
 </td>
 </tr>
 </table>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+[![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/fccc3a88ad3-6114-4727-9b77-25ecf04f9d61/responsive-web-design)
+
+</div>
 
 ---
 
