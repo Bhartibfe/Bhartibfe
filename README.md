@@ -148,7 +148,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Bhartibfe/Bhartibfe/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Bhartibfe/Bhartibfe/output/snake-dark.svg)
 
 </div>
 
