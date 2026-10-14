@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:5A189A,100:3C096C&height=200&section=header&text=Bharti%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:5A189A,100:3C096C&height=200&section=header&text=Bharti%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20MongoDB&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <div align="center">
 
 <a href="https://github.com/Bhartibfe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+VDOIT+Technologies;Building+secure+enterprise+UIs;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;Turning+designs+into+pixel-perfect+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Building+end-to-end+web+applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;From+pixel-perfect+UI+to+secure+APIs" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,19 +19,9 @@
 
 ## 💫 About Me
 
-```ts
-const bharti = {
-  role:      "Software Engineer @ VDOIT Technologies Ltd.",
-  education: "B.E. Electrical & Electronics, Panjab University (2022-2026)",
-  focus:     ["Frontend Architecture", "Design Systems", "Web Security"],
-  stack:     ["React", "Next.js", "TypeScript", "Tailwind", "shadcn/ui"],
-  currently: "Shipping secure UIs for a Government Defense platform 🛡️",
-  learning:  ["System Design", "Agentic AI workflows", "Performance budgets"],
-  motto:     "Build it once, build it reusable.",
-};
-```
+🎓 &nbsp;**B.E. Electrical & Electronics**, Panjab University · `2022 – 2026`
 
-🛡️ &nbsp;I build **frontend features for enterprise & defense-grade applications**, where regulatory and security requirements aren't extras — they're the spec.
+🚀 &nbsp;I build **end-to-end web applications** — designing the API, modelling the data, and shipping the interface that sits on top of it.
 
 🧩 &nbsp;I've shipped **65+ reusable UI components** across production codebases, cutting delivery time and killing duplicated code.
 
@@ -39,7 +29,7 @@ const bharti = {
 
 🌱 &nbsp;Always learning — currently deep in **system design** and **agentic AI tooling** (Claude Code, Cursor, Copilot).
 
-🤝 &nbsp;Open to collaborating on **open-source frontend projects** and anything that makes the web faster and more accessible.
+🤝 &nbsp;Open to collaborating on **open-source projects** and anything that makes the web faster and more accessible.
 
 ---
 
@@ -70,7 +60,7 @@ const bharti = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & UI
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -81,11 +71,13 @@ const bharti = {
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 
-### Backend & Data
+### Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
@@ -106,100 +98,6 @@ const bharti = {
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
-
----
-
-## 🏢 Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔷 VDOIT Technologies Ltd.
-
-**Software Engineer** · `Oct 2025 – Present`
-
-- Frontend for an **enterprise Government Defense** platform under strict regulatory & security requirements
-- Built & maintained **40+ reusable UI components** (React, Next.js, MUI, Tailwind) → **25% faster delivery**
-- Architected a **security-first data pipeline** — AES-256 encryption + Axios interceptor layer securing **13+ critical forms** and API payloads
-- Designed **JWT auth** with in-memory token manager + refresh queue, eliminating XSS/CSRF risk across concurrent requests
-- Partnered with backend & security teams on system design, permissions, and data flow
-
-</td>
-<td width="50%" valign="top">
-
-### 🔶 Design Innovation Centre, PU
-
-**Frontend Engineer Intern** · `Jun 2025 – Aug 2025`
-
-- Rebuilt the official **DIC website** (React.js + SCSS) serving **5,000+ daily visitors**
-- Created **25+ reusable components**, cutting duplicated code across pages
-- Shipped responsive layouts verified across **10+ browsers** and device types
-- Integrated **15+ APIs** with backend developers for stable client–server data flow
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎓 [Campus Path](https://www.campuspath.in/)
-
-*College Predictor Platform*
-
-`70+ APIs` `20+ models`
-
-Guidance platform covering **IITs, NITs, IIITs & GFTIs**, with a prediction engine over **50K+ admission records** across 6 parameters. JWT + OTP + RBAC for 3 roles, plus real-time chat and notifications — **~60% less manual admin effort**.
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Node](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-9D4EDD?style=flat-square&logo=googlechrome&logoColor=white)](https://www.campuspath.in/)
-
-</td>
-<td width="33%" valign="top">
-
-### 🛒 [Smart E-Commerce](https://smart-ee.vercel.app/)
-
-*MERN Stack*
-
-`77+ APIs` `20 pages`
-
-Full-stack commerce system with **8 MongoDB collections**, secure auth & payments (JWT, bcrypt, Razorpay) and multi-method checkout — wallet, coupons, gift cards. Admin dashboard with RBAC + **5 analytics modules**, **~40% less manual effort**.
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-9D4EDD?style=flat-square&logo=googlechrome&logoColor=white)](https://smart-ee.vercel.app/)
-
-</td>
-<td width="33%" valign="top">
-
-### 🗓️ [Weekly Wise](https://bharti-weekly-wise.netlify.app/)
-
-*Productivity Platform*
-
-`+40% efficiency`
-
-React web app centralizing productivity tooling — **blogs, notes, to-do lists and a planner** in one place, behind secure authenticated access. Drove a **25% improvement in task accountability** during testing.
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-9D4EDD?style=flat-square&logo=googlechrome&logoColor=white)](https://bharti-weekly-wise.netlify.app/)
-
-</td>
-</tr>
-</table>
 
 ---
 
