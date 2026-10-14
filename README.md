@@ -101,16 +101,6 @@
 
 ---
 
-## 🏅 Certifications
-
-<div align="center">
-
-[![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/fccc3a88ad3-6114-4727-9b77-25ecf04f9d61/responsive-web-design)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
